@@ -1,0 +1,28 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+    margin-bottom: 20px;
+    background-color: #e6dada;
+}
+
+h1{
+    text-align:center;
+}
+
+p{
+    text-align:center;
+}
+
